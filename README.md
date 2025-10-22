@@ -5,7 +5,7 @@ Uygulama; açık/koyu tema desteği, kullanıcı girişi, kayıt olma, not eklem
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - 🔐 **Güvenli kimlik doğrulama** (E-posta & Şifre)
 - 🗒️ **Not ekleme, görüntüleme, silme**
@@ -60,3 +60,7 @@ flutter pub get
 
 # Uygulamayı başlat
 flutter run
+
+##  APK İndir
+
+Uygulamayı doğrudan denemek için aşağıdaki bağlantıyı kullanabilirsiniz:
