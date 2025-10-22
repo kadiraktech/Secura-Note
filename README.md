@@ -63,4 +63,5 @@ flutter run
 
 ##  APK İndir
 
-Uygulamayı doğrudan denemek için aşağıdaki bağlantıyı kullanabilirsiniz:
+Daha fazla bilgi veya APK talebi için benimle iletişime geçebilirsiniz:
+whitesoft.tech
