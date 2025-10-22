@@ -32,20 +32,6 @@ Tüm veriler cihaz üzerinde tutulur — gizlilik önceliklidir.
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-| Welcome | Sign In | Sign Up |
-|----------|----------|---------|
-| ![Welcome](../screenshots/welcome.png) | ![SignIn](../screenshots/signin.png) | ![SignUp](../screenshots/signup.png) |
-
-| Notes (Light) | Notes (Dark) | Add Note |
-|---------------|--------------|-----------|
-| ![NotesLight](../screenshots/notes_light.png) | ![NotesDark](../screenshots/notes_dark.png) | ![AddNote](../screenshots/addnote.png) |
-
-> 📁 Not: Görseller `screenshots/` klasörüne eklenmelidir.
-
----
-
 ## 📦 Kurulum
 
 ```bash
